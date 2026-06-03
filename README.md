@@ -356,7 +356,7 @@ Through this project, I gained hands-on experience in:
 
 ## 👨‍💻 Author
 
-**Aryan Soni**
+**Aryan Soni** 🎓 B.Tech Student, IIT Roorkee
 
 GitHub: https://github.com/Aryan-soni6387
 
